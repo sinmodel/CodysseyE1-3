@@ -20,7 +20,7 @@
 
 ### 실행
 ```
-python main.py
+python main10.py
 ```
 ### 메뉴 화면 캡쳐
 
