@@ -146,7 +146,7 @@ abs(score_a - score_b) < EPSILON (= 1e-9)  →  동점, 판정 "UNDECIDED"
 
 ### 모드 1: <br> 3×3 십자가 필터와 X 필터 입력
 
-`python main.py` → `1`을 입력하고 아래처럼 입력합니다. (필터 A = 십자가, 필터 B = X, 패턴 = 십자가)
+`python main10.py` → `1`을 입력하고 아래처럼 입력합니다. (필터 A = 십자가, 필터 B = X, 패턴 = 십자가)
 
 ```text
 필터 A:  0 1 0 / 1 1 1 / 0 1 0
