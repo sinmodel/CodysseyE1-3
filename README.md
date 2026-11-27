@@ -24,7 +24,7 @@ python main.py
 ```
 ### 메뉴 화면 캡쳐
 
-![MAC연산실습](images\MAC연산메뉴.png)     
+![MAC연산실습](images/MAC연산메뉴.png)     
 
 ### 메뉴 선택 방법
 
