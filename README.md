@@ -48,7 +48,7 @@ python main10.py
 
 ### data.json 위치와 구조
 
-`main.py`와 같은 폴더의 `data.json`을 읽습니다. 구조는 다음과 같습니다.
+`main10.py`와 같은 폴더의 `data.json`을 읽습니다. 구조는 다음과 같습니다.
 
 ```text
 {
